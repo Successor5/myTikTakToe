@@ -1,0 +1,183 @@
+.mainContainer{
+  background-color: black;
+  height: 20cm;
+  width: 100%;
+}
+.board{
+  border: solid 2pt red;
+  background-color: brown;
+  color: greenyellow;
+  height: 13cm;
+  width: 50%;
+  margin-left: 27%;
+  margin-top: 1%;
+  border-radius: 5%;
+  justify-content: center;
+  text-align: center;
+}
+.row1{
+  display: flex;
+}
+  #coloumn0{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    font-size: 64px;
+    text-align: center;
+    line-height: 90px;
+    cursor: pointer;
+    margin-left: 1cm;
+    margin-top: 1cm;
+  }
+  .square:hover {
+    background-color: #eee;
+  }
+  #coloumn1{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    font-size: 64px;
+    text-align: center;
+    line-height: 90px;
+    cursor: pointer;
+    margin-left: 3cm;
+    margin-top: 1cm;
+  }
+  .square:hover {
+    background-color: #eee;
+  }
+  #coloumn2{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    font-size: 64px;
+    text-align: center;
+    line-height: 90px;
+    cursor: pointer;
+    margin-left: 3cm;
+    margin-top: 1cm;
+  }
+  .square:hover {
+    background-color: #eee;
+  }
+  .row2{
+    display: flex;
+  }
+    #coloumn3{
+      width: 100px;
+      height: 100px;
+      border: 1px solid black;
+      font-size: 64px;
+      text-align: center;
+      line-height: 90px;
+      cursor: pointer;
+      margin-left: 1cm;
+      margin-top: 1cm;
+    }
+    .square:hover {
+      background-color: #eee;
+    }
+    #coloumn4{
+      width: 100px;
+      height: 100px;
+      border: 1px solid black;
+      font-size: 64px;
+      text-align: center;
+      line-height: 90px;
+      cursor: pointer;
+      margin-left: 3cm;
+      margin-top: 1cm;
+    }
+    .square:hover {
+      background-color: #eee;
+    }
+    #coloumn5{
+      width: 100px;
+      height: 100px;
+      border: 1px solid black;
+      font-size: 64px;
+      text-align: center;
+      line-height: 90px;
+      cursor: pointer;
+      margin-left: 3cm;
+      margin-top: 1cm;
+    }
+    .square:hover {
+      background-color: #eee;
+    }
+    .row3{
+      display: flex;
+    }
+      #coloumn6{
+        width: 100px;
+        height: 100px;
+        border: 1px solid black;
+        font-size: 64px;
+        text-align: center;
+        line-height: 90px;
+        cursor: pointer;
+        margin-left: 1cm;
+        margin-top: 1cm;
+      }
+      .square:hover {
+        background-color: #eee;
+      }
+      #coloumn7{
+        width: 100px;
+        height: 100px;
+        border: 1px solid black;
+        font-size: 64px;
+        text-align: center;
+        line-height: 90px;
+        cursor: pointer;
+        margin-left: 3cm;
+        margin-top: 1cm;
+      }
+      .square:hover {
+        background-color: #eee;
+      }
+      #coloumn8{
+        width: 100px;
+        height: 100px;
+        border: 1px solid black;
+        font-size: 64px;
+        text-align: center;
+        line-height: 90px;
+        cursor: pointer;
+        margin-left: 3cm;
+        margin-top: 1cm;
+      }
+      .square:hover {
+        background-color: #eee;
+      }
+      .buttons{
+        background-color: black;
+        width: 13cm;
+        height: 5cm;
+        margin-top: 20%;
+        float: left;
+        justify-content: center;
+        text-align: center;
+    }
+    
+    .exit{
+        background-color: black;
+        border: solid 2pt red;
+        width: 50%;
+        height: 50%;
+        margin-bottom: 50000%;
+        color: wheat;
+        margin-right: 7000cm;
+    }
+    .exit:hover{
+        background-color: red;
+    } 
+    .play{
+      background-color: black;
+      border: solid 2pt red;
+      width: 50%;
+      height: 50%;
+      margin-bottom: 50000%;
+      color: wheat;
+      margin-right: 7000cm;
+  }
